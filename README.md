@@ -1,6 +1,6 @@
 # Airline-Delays
 Gianni Conde, Kelsey Kirby, Mark Stiles <br>
-Spring 2024 <br>
+April 2024 - June 2024 <br>
 email: gianniconde96@gmail.com <br>
 
 ## About the Project
